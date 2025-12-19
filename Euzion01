@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EUZION – Sistemas Elétricos</title>
+  <style>
+    body { margin:0; font-family: Arial, Helvetica, sans-serif; background:#0b2d52; color:#ffffff; }
+    header { padding:40px 20px; text-align:center; }
+    header h1 { margin:0; font-size:36px; }
+    header p { font-size:18px; color:#9fd3ff; }
+    section { padding:40px 20px; max-width:900px; margin:auto; }
+    .card { background:#123d6d; border-radius:12px; padding:30px; margin-bottom:30px; }
+    h2 { color:#ffffff; margin-top:0; }
+    .btn { display:inline-block; background:#00aaff; color:#ffffff; padding:15px 25px; border-radius:8px; text-decoration:none; font-weight:bold; }
+    .btn:hover { background:#008fd1; }
+    .price { font-size:32px; color:#00e1ff; margin:20px 0; }
+    footer { text-align:center; padding:30px; font-size:14px; color:#9fd3ff; }
+  </style>
+</head>
+<body><header>
+  <h1>EUZION</h1>
+  <p>Plataforma de Projetos Elétricos e Automação Residencial</p>
+</header><section>
+  <div class="card">
+    <h2>O que é a EUZION?</h2>
+    <p>
+      A EUZION é uma empresa de tecnologia inspirada no modelo do Uber, aplicada ao setor de
+      projetos elétricos e automação residencial. Aqui você compra projetos elétricos com design 3D,
+      padronizados, claros e prontos para execução.
+    </p>
+  </div>  <div class="card">
+    <h2>Produto em Teste</h2>
+    <p><strong>Projeto Elétrico Residencial – Quarto</strong></p>
+    <ul>
+      <li>Layout elétrico completo</li>
+      <li>Visualização em 3D</li>
+      <li>Distribuição de tomadas, iluminação e interruptores</li>
+      <li>Projeto digital para download (imagem)</li>
+    </ul><div class="price">R$ 49,90</div>
+
+<!-- SUBSTITUA O LINK ABAIXO PELO LINK DE PAGAMENTO -->
+<a class="btn" href="#" target="_blank">Comprar Projeto</a>
+
+  </div>  <div class="card">
+    <h2>Como Funciona</h2>
+    <ol>
+      <li>Você escolhe o projeto</li>
+      <li>Realiza a compra</li>
+      <li>Recebe o projeto elétrico digital</li>
+      <li>Pode contratar um profissional indicado pela plataforma</li>
+    </ol>
+  </div>  <div class="card">
+    <h2>Validação Inicial</h2>
+    <p>
+      Neste momento, a EUZION está em fase de validação. A comunicação e suporte acontecem via Telegram.
+    </p>
+    <a class="btn" href="#" target="_blank">Entrar no Telegram</a>
+  </div>
+</section><footer>
+  © 2025 – EUZION Sistemas Elétricos<br />
+  Plataforma em desenvolvimento
+</footer></body>
+</html>
