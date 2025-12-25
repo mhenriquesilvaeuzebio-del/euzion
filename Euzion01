@@ -17,7 +17,12 @@
     footer { text-align:center; padding:30px; font-size:14px; color:#9fd3ff; }
   </style>
 </head>
-<body><header>
+<body>
+<a class="btn"
+href="https://wa.me/5521965385263?text=Olá!%20Quero%20comprar%20o%20Projeto%20Elétrico%20da%20EUZION.">
+Comprar Projeto
+</a>
+<header>
   <h1>EUZION</h1>
   <p>Plataforma de Projetos Elétricos e Automação Residencial</p>
 </header><section>
